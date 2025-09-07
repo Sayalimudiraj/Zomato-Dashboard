@@ -22,6 +22,3 @@ Dataset sourced from Kaggle – Zomato Restaurant Dataset (2010–2015).
 🚚 Online Delivery Availability breakdown
 🍴 Table Booking Trends
 📊 Interactive visuals to filter by year, country, and cuisine5.
-
-5.Screenshort/Demos
-
